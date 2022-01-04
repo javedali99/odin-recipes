@@ -1,1 +1,1 @@
-# The Odin Project Recipes for Web Development
+# The Odin Project Recipes
